@@ -5,8 +5,6 @@ The project helped me understand the basics of HTML, CSS, and web design princip
 
 🛠️ </b>Built With</b>
 * HTML5
-* CSS3
-* Basic Responsive Design
 
 🎯 <b>Features</b>
 * Personal information and contact
