@@ -1,7 +1,7 @@
 💼 <b>My Personal Resume Website</b>
 
 This is my first personal resume website, built as part of a web development workshop organized by NIET College during my first year of BTech.
-The project helped me understand the basics of HTML, CSS, and web design principles.
+The project helped me understand the basics of HTML.
 
 🛠️ </b>Built With</b>
 * HTML5
